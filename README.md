@@ -4,14 +4,16 @@ he aim of this project is to develop an advanced document search and retrieval s
 # About:
 This project integrates Google's Gemini Pro, LangChain, and FAISS to create an advanced document search and retrieval system. It efficiently indexes and searches through multiple PDF documents using FAISS vector embeddings for high-dimensional similarity searches. This combination allows for fast, accurate retrieval of relevant information, making it an ideal tool for research, legal, and academic use cases that require detailed document analysis.
 # Features
+```
 -Advanced Search & Retrieval
-
 -FAISS Vector Embeddings
 -Multi-PDF Indexing
 -LangChain Integration
 -Contextual Knowledge Extraction
 -Scalability
+```
 # Requirements:
+```
 -Python 3.8+: Main programming language.
 -Google's Gemini Pro API: For LLM-powered search.
 -LangChain: To chain tasks with the language model.
@@ -20,22 +22,23 @@ This project integrates Google's Gemini Pro, LangChain, and FAISS to create an a
 -Sentence-Transformers: To generate vector embeddings.
 -Hardware: High-performance CPU/GPU, ample storage, 8GB+ RAM.
 -Optional Cloud Platform: For scalability and large datasets.
+```
 # System Architecture:
 ![image](https://github.com/user-attachments/assets/ff5ace68-3fd0-4354-b282-c872712f70a6)
 # Output:
-After browsing for our website, the following page will be shown first. 
+## After browsing for our website, the following page will be shown first. 
 ![image](https://github.com/user-attachments/assets/7c288e5f-1784-42c4-ade8-ecd702717239)
 
-Click the browse file buttom to upload the pdf documents
+## Click the browse file buttom to upload the pdf documents
 ![image](https://github.com/user-attachments/assets/a2d48321-6658-4746-9e49-3006689d5045)
 
-After uploading the pdf doc’s click on summit & process button
+## After uploading the pdf doc’s click on summit & process button
 ![image](https://github.com/user-attachments/assets/3a7236a4-62f3-41ff-ade4-a4fc99911cae)
 
-Then ask the question which is related to the uploaded pdf’s and it will give you the content of the related query asked.
+## Then ask the question which is related to the uploaded pdf’s and it will give you the content of the related query asked.
 ![image](https://github.com/user-attachments/assets/580c1710-2d54-4f89-9caa-6c6f1a425ac1)
 
-Additionly we give that you can print the content,record a screencast,setting(change background mode & change the font ).  
+## Additionly we give that you can print the content,record a screencast,setting(change background mode & change the font ).  
 ![image](https://github.com/user-attachments/assets/40020dc2-d9ca-47af-988b-4ed81fc96b0d)
 
 # Results of the "Chat with PDF using Gemini" Project:
