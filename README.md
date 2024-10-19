@@ -64,11 +64,11 @@ No Answer: Response: "Answer is not available in the context.
 [2] Su, Hongjin, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen Yih, Noah A. Smith, Luke Zettlemoyer, and Tao Yu. "One Embedder, Any Task: Instruction-Finetuned Text Embeddings." ArXiv, (2022). /abs/2212.09741. N W Marti et al 2020 J. Phys.: Conf. Ser. 1516 012022
 [3] Kim, S., Rawat, A. S., Zaheer, M., Jayasumana, S., Sadhanala, V., Jitkrittum, W., Menon, A. K., Fergus, R., & Kumar, S. (2023). EmbedDistill: A Geometric Knowledge Distillation for Information Retrieval. ArXiv. /abs/2301.12005 
 [4] Dao, Mai Thi Hong. "International Journal of Management and Organizational Research." (2023)
-![image](https://github.com/user-attachments/assets/f4693709-62a5-48c3-92d0-df08aa1c1d01)
+
 [5] Jahan, Md Saroar, et al. "A Comprehensive Study on NLP Data Augmentation for Hate Speech Detection: Legacy Methods, BERT, and LLMs." arXiv preprint arXiv:2404.00303 (2024).
 [6] Malode, Vishal Manjunatha. Benchmarking public large language model. Diss. Technische Hochschule Ingolstadt, 2024.
 [7] L. Padoan, M. Cesetti, L. Brunello, M. Antonelli, B. Zamengo and F. Silvestri, "Mobility ChatBot: supporting decision making in mobility data with chatbots," 2024 25th IEEE International Conference on Mobile Data Management (MDM), Brussels, Belgium, 2024, pp. 295-300, doi: 10.1109/MDM61037.2024.00061. keywords: {Structured Query Language;Large language models;Decision making;Natural languages;Data visualization;Transportation;Writing;Mobility data;Large Language Models;decision making;agents},
-![image](https://github.com/user-attachments/assets/da447777-d238-4169-a678-3c1165c53a4e)
+
 
 
 
