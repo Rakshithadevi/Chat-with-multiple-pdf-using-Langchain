@@ -5,6 +5,7 @@ he aim of this project is to develop an advanced document search and retrieval s
 This project integrates Google's Gemini Pro, LangChain, and FAISS to create an advanced document search and retrieval system. It efficiently indexes and searches through multiple PDF documents using FAISS vector embeddings for high-dimensional similarity searches. This combination allows for fast, accurate retrieval of relevant information, making it an ideal tool for research, legal, and academic use cases that require detailed document analysis.
 # Features
 -Advanced Search & Retrieval
+
 -FAISS Vector Embeddings
 -Multi-PDF Indexing
 -LangChain Integration
